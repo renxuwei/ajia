@@ -1,0 +1,4 @@
+flask
+flask-script
+flask-blueprint
+flask-session
